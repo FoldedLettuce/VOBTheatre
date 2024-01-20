@@ -1,0 +1,74 @@
+{
+  "20240118": {
+    "movies": "2",
+    "movie-1": {
+      "name": "movie 1",
+      "posterurl": "img/movieposter.jpg",
+      "synopsis": "synopsis 1",
+      "genre": "genre 1",
+      "runtime": "runtime 1",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "4:00pm",
+      "showtime3": ""
+    },
+    "movie-2": {
+      "name": "movie 2",
+      "posterurl": "img/movieposter.jpg",
+      "synopsis": "synopsis 2",
+      "genre": "genre 2",
+      "runtime": "runtime 2",
+      "numshowtimes": "3",
+      "showtime1": "4:00pm",
+      "showtime2": "4:30pm",
+      "showtime3": "6:00pm"
+    },
+    "movie-3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "20240119": {
+    "movies": "2",
+    "movie-1": {
+      "name": "Name 1",
+      "posterurl": "323",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "dfgdfg",
+      "showtime1": "dfg",
+      "showtime2": "dfg",
+      "showtime3": "dgf"
+    },
+    "movie-2": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "dfgdfg",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "dfgdfg",
+      "showtime2": "",
+      "showtime3": ""
+    },
+    "movie-3": {
+      "name": "",
+      "posterurl": "dfg",
+      "synopsis": "",
+      "genre": "sdg",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "sdgfsdgsdg",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  }
+}
