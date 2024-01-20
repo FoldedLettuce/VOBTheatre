@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Showtimes</title>
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/style2.css" rel="stylesheet">
+  <link href="css/swiper.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+  <script src="js/jquery.min.js"></script>
+</head>
+<body>
+  <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+    <table class="w-full text-sm text-left rtl:text-right text-white">
+        <thead class="text-xs uppercase" style="background-color: #2B3D71;">
+            <tr>
+                <th scope="col" class="px-6 py-3">Date</th>
+                <th scope="col" class="px-6 py-3">Movie</th>
+                <th scope="col" class="px-6 py-3">Runtime</th>
+                <th scope="col" class="px-6 py-3">Rating</th>
+                <th scope="col" class="px-6 py-3">Showtimes</th>
+            </tr>
+        </thead>
+        <tbody id="allshowtimesbody">
+        </tbody>
+    </table>
+  </div>
+  <script src="js/allshowtimes.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
+</body>
+</html>

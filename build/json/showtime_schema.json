@@ -1,29 +1,72 @@
 {
-  "20240118": {
+  "s20240119": {
     "movies": "2",
-    "movie-1": {
-      "name": "movie 1",
-      "posterurl": "img/movieposter.jpg",
-      "synopsis": "synopsis 1",
-      "genre": "genre 1",
-      "runtime": "runtime 1",
+    "date": "20240119",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
       "numshowtimes": "2",
       "showtime1": "3:30pm",
-      "showtime2": "4:00pm",
+      "showtime2": "6:30pm",
       "showtime3": ""
     },
-    "movie-2": {
-      "name": "movie 2",
-      "posterurl": "img/movieposter.jpg",
-      "synopsis": "synopsis 2",
-      "genre": "genre 2",
-      "runtime": "runtime 2",
-      "numshowtimes": "3",
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
       "showtime1": "4:00pm",
-      "showtime2": "4:30pm",
-      "showtime3": "6:00pm"
+      "showtime2": "6:00pm",
+      "showtime3": ""
     },
-    "movie-3": {
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "rating": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240120": {
+    "movies": "2",
+    "date": "20240120",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
       "name": "",
       "posterurl": "",
       "synopsis": "",
@@ -35,38 +78,314 @@
       "showtime3": ""
     }
   },
-  "20240119": {
+  "s20240121": {
     "movies": "2",
-    "movie-1": {
-      "name": "Name 1",
-      "posterurl": "323",
-      "synopsis": "",
-      "genre": "",
-      "runtime": "",
-      "numshowtimes": "dfgdfg",
-      "showtime1": "dfg",
-      "showtime2": "dfg",
-      "showtime3": "dgf"
+    "date": "20240121",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
     },
-    "movie-2": {
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
       "name": "",
       "posterurl": "",
       "synopsis": "",
-      "genre": "dfgdfg",
+      "genre": "",
       "runtime": "",
       "numshowtimes": "",
-      "showtime1": "dfgdfg",
+      "showtime1": "",
       "showtime2": "",
       "showtime3": ""
+    }
+  },
+  "s20240122": {
+    "movies": "2",
+    "date": "20240122",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
     },
-    "movie-3": {
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
       "name": "",
-      "posterurl": "dfg",
+      "posterurl": "",
       "synopsis": "",
-      "genre": "sdg",
+      "genre": "",
       "runtime": "",
       "numshowtimes": "",
-      "showtime1": "sdgfsdgsdg",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240123": {
+    "movies": "2",
+    "date": "20240123",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240124": {
+    "movies": "2",
+    "date": "20240124",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240125": {
+    "movies": "2",
+    "date": "20240125",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240126": {
+    "movies": "2",
+    "date": "20240126",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240127": {
+    "movies": "2",
+    "date": "20240127",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
+      "showtime2": "",
+      "showtime3": ""
+    }
+  },
+  "s20240128": {
+    "movies": "2",
+    "date": "20240128",
+    "movie1": {
+      "name": "The Boys in the Boat",
+      "posterurl": "https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_511x.jpg?v=1699378346",
+      "synopsis": "During the height of the Great Depression, members of the rowing team at the University of Washington get thrust into the spotlight as they compete for gold at the 1936 Olympics in Berlin.",
+      "genre": "Sport/Drama",
+      "rating": "PG-13",
+      "runtime": "124 mins",
+      "numshowtimes": "2",
+      "showtime1": "3:30pm",
+      "showtime2": "6:30pm",
+      "showtime3": ""
+    },
+    "movie2": {
+      "name": "Anyone But You",
+      "posterurl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFrvZI9Xa_HmjtekEl6EZuwA9UmjLz6xkaIdH4W1E975FV1pxR",
+      "synopsis": "Despite an amazing first date, Bea and Ben's initial attraction quickly turns sour. However, when they unexpectedly find themselves at a destination wedding in Australia, they pretend to be the perfect couple to keep up appearances.",
+      "genre": "Comedy/Romance",
+      "rating": "R",
+      "runtime": "103 mins",
+      "numshowtimes": "2",
+      "showtime1": "4:00pm",
+      "showtime2": "6:00pm",
+      "showtime3": ""
+    },
+    "movie3": {
+      "name": "",
+      "posterurl": "",
+      "synopsis": "",
+      "genre": "",
+      "runtime": "",
+      "numshowtimes": "",
+      "showtime1": "",
       "showtime2": "",
       "showtime3": ""
     }

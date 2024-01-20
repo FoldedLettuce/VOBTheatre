@@ -1,0 +1,4 @@
+- Finalize top of page
+- About us section
+- Add party section
+- Make navbar buttons work
