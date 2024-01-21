@@ -85,7 +85,7 @@ jQuery(function ($) {
         if (key !== "movies" && typeof jsonData['s' + convertDate(i)][key] === "object") {
           //Set variable equal to current movies data
           const movieData = jsonData['s' + convertDate(i)][key];
-          const { name, posterurl, synopsis, genre, runtime, numshowtimes, showtime1, showtime2, showtime3 } = movieData;
+          const { name, posterurl, synopsis, genre, rating, runtime, numshowtimes, showtime1, showtime2, showtime3 } = movieData;
           
           //Generate showtimes field, 1, 2, or 3 showtimes
           if(currentnum < 3 || currentnum === 3 && skip3 === false) {
@@ -99,7 +99,7 @@ jQuery(function ($) {
             }
 
             //Append movie data
-            document.getElementById('day' +  (i + 1)).innerHTML = document.getElementById('day' +  (i + 1)).innerHTML + ('<div class="row movie-tabs"><div class="col-md-2 col-sm-3"><a title="' + name +'"><img decoding="async" src="' + posterurl + '" style="height:250px" alt="' + name + '"></a></div><div class="col-md-10 col-sm-9"><span class="title">' +  genre + '</span><header><h3 class="no-underline">' + name + '</h3></header><p>' + synopsis + '</p><div class="row"><div class="col-md-8 col-sm-9"><hr class="space-10"><span class="viewing-times"><i class="fa fa-clock-o"></i>Showtimes</span><ul class="show-times"><li class="day1-time today" style="display: inline-block">' + showtimes + '</li></ul></div><div class="col-md-4 col-sm-3 running-time"><hr class="space-10">' + runtime + '</div></div></div></div>');
+            document.getElementById('day' +  (i + 1)).innerHTML = document.getElementById('day' +  (i + 1)).innerHTML + ('<div class="row movie-tabs"><div class="col-md-2 col-sm-3"><a title="' + name +'"><img decoding="async" src="' + posterurl + '" style="height:250px" alt="' + name + '"></a></div><div class="col-md-10 col-sm-9"><span class="title">' +  genre + '</span><header><h3 class="no-underline">' + name + '</h3></header><p>' + synopsis + '</p><div class="row"><div class="col-md-8 col-sm-9"><hr class="space-10"><span class="viewing-times"><i class="fa fa-clock-o"></i>Showtimes</span><ul class="show-times"><li class="day1-time today" style="display: inline-block">' + showtimes + '</li></ul></div><div class="col-md-4 col-sm-3 running-time"><hr class="space-10">' + runtime + ' ' + rating + '</div></div></div></div>');
             //Add 1 to the count to continue cycling through all movies (Stops dups)
             currentnum += 1;
           }

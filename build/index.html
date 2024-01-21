@@ -20,9 +20,8 @@
         <div>
           <button id="mobile-open-button" class="text-3xl sm:hidden focus:outline-none">&#9776;</button>
           <nav class="hidden sm:block space-x-8 text-xl" aria-label="main">
+            <a href="#rentals" class="hover:opacity-90">Rentals</a>
             <a href="#showtimes" class="hover:opacity-90">Showtimes</a>
-            <a href="#parties" class="hover:opacity-90">Parties</a>
-            <a href="#about-us" class="hover:opacity-90">About Us</a>
           </nav>
         </div>
       </section>
@@ -38,38 +37,8 @@
         </video>
       </section>
 
-      <!--     <section id="carousel" class="flex flex-col-reverse justify-center sm:flex-row p-6 items-center gap-8 mb-12">
-        <article class="sm:w-1/2 max-w-8xl mt-4">
-          <div class="swiper-container">
-            <div class="swiper-wrapper">
-              <div class="swiper-slide">        
-                <video autoplay muted preload="auto">
-                  <source src="./video/Bensenville_Activities_-_The_Bensenville_Theatre_Ice_Cream_Shoppe-vimeo-193730301-hls-google_mediacdn-2064.mp4" type="video/mp4">
-                  Error: Your browser does not support videos.
-                </video> 
-              </div>
-              <div class="swiper-slide">
-                <img src="img/placeholder.png">
-              </div>
-              <div class="swiper-slide">
-                <img src="img/placeholder.png">
-              </div>
-              <div class="swiper-slide">
-                <img src="img/placeholder.png">
-              </div>
-              <div class="swiper-slide">
-                <img src="img/placeholder.png">
-              </div>
-            </div>
-            <div class="swiper-button-prev"></div>
-            <div class="swiper-button-next"></div>
-          </div>
-          <h2 class="max-w-8xl text-7xl font-bold text-center sm:text-5xl mt-8">Bensenville Theatre</h2>
-        </article>
-        </section> -->
-      
       <!--Showtimes-->
-      <section id="showtimes" class="max-w-6xl mx-auto mb-12 mt-24">
+      <section id="showtimes" class="max-w-6xl mx-auto mb-12 mt-48">
         <h2 class="text-7xl font-bold text-center sm:text-5xl">Showtimes</h2>
         <div class="fw-tabs movies mt-12">
           <ul>
@@ -129,14 +98,54 @@
         </div>
       </section>
 
-      <section id="parties" class="max-w-6xl mx-auto mb-12 mt-24">
-        <img src="https://www.bensenville.il.us/ImageRepository/Document?documentID=18306">
-      </section>
+      <!--Rentals-->
+      <section id="rentals" class="max-w-6xl mx-auto mb-12">
+        <h1 class="text-7xl font-bold text-center sm:text-6xl no-underline">Private Theatre Rentals</h1>
+        <div class="grid grid-cols-2 gap-x-48 mt-8">
+          <div>
+            <h2 class="font-bold text-4xl no-underline text-blue-900">Pricing and packages</h2>
+            <h3 class="no-underline mt-6 mb-0">Rental Fee $200</h3>
+            <p class="text-xl text-black">You may add one one of the food packages below to your rental.</p>
 
-      <!--About Us-->
-      <section id="about-us" class="max-w-6xl mx-auto mb-12">
+            <h2 class="font-bold text-3xl no-underline text-blue-900 mt-6">Package 1</h2>
+            <h3 class="text-xl text-black no-underline">16 oz. soft drink and a small popcorn.</h3>
+            <p class="text-xl font-bold text-black">$5.25 per person</p>
+
+            <h2 class="font-bold text-3xl no-underline text-blue-900 mt-6">Package 2</h2>
+            <h3 class="text-xl text-black no-underline">16 oz. soft drink, small popcorn, after movie hot dog and drink.</h3>
+            <p class="text-xl font-bold text-black">$8.25 per person</p>
+
+            <h2 class="font-bold text-3xl no-underline text-blue-900 mt-6">Package 3</h2>
+            <h3 class="text-xl text-black no-underline">16 oz. soft drink, small popcorn, and a single dip ice cream.</h3>
+            <p class="text-xl font-bold text-black">$8.75 per person</p>
+
+            <h2 class="font-bold text-3xl no-underline text-blue-900 mt-6">Package 4</h2>
+            <h3 class="text-xl text-black no-underline">16 oz. soft drink, small popcorn, after movie hot dog, drink and a single dip ice cream.</h3>
+            <p class="text-xl font-bold text-black">$11.00 per person</p>
+          </div>
+          <div>
+            <h3 class="text-xl text-black no-underline font-bold">Movie Selections</h3>
+            <h3 class="text-xl text-black no-underline">Call for our movie selctions.</h3>
+
+            <h3 class="text-xl text-black no-underline font-bold mt-12">Theatre rentals are $200.00 for up to 40 people. MAX of 40. Must invlude any adults that stay in that number. *Rental price includes reserved seating in our ice cream parlor.*</h3>
+
+            <h3 class="text-xl text-black no-underline font-bold mt-12">Available hours: Saturday and Sunday</h3>
+            <h3 class="text-xl text-black no-underline font-bold mt-3">Arrive: 12pm</h3>
+            <h3 class="text-xl text-black no-underline font-bold mt-3">Movie starts by 12:30pm</h3>
+            <h3 class="text-xl text-black no-underline font-bold mt-3">Pickup: 2:45pm</h3>
+            <h3 class="text-xl text-black no-underline font-bold mt-3">Party ends promptly at 3:00pm</h3>
+
+            <p class="text-xl font-bold text-black mt-12">Popcorn and drinks will be served during the movie. After movie hot dog and ice cream will be served in our ice cream parlor.</p>
+            <p class="text-xl font-bold text-black mt-3">No outside food or drink allowed with the exception of a store bought birthday cake.</p>
+
+            <h3 class="text-2xl text-black no-underline font-bold mt-6">Call (630) 860-1404 X2 to book and for more info.</h3>
+
+
+          </div>
+        </div>
       </section>
     </main>
+
     <!--Footer-->
     <footer class="p-4 sm:p-6 dark:bg-gray-800" style="background-color: #2B3D71;">
       <div class="mx-auto max-w-screen-xl">
@@ -213,8 +222,6 @@
         </div>
       </div>
     </footer>
-    <script src="js/swiper.min.js"></script>
-    <script src="js/carousel.js"></script>
     <script src="js/WeeklyNav.js"></script>
     <script src="js/ui/core.min.js"></script>
     <script src="js/ui/tabs.min.js"></script>

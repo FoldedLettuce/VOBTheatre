@@ -1,4 +1,3 @@
-- Finalize top of page
-- About us section
-- Add party section
 - Make navbar buttons work
+- Add animations for scrolling
+- Mobile support
